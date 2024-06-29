@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
-
+<br>
 <p align="center">
     <Strong>🔥Studying🔥</Strong><br>
 </p>
@@ -24,13 +24,14 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
+<br>
 <div align="center">
 
 <h2>👋 Introduction</h2>
 <p><b>Name:</b>&nbsp;&nbsp;박정우 (jungwoo park)</p>
 <p><b>University:</b>&nbsp;&nbsp;Sangmyung Univ. Software</p>
 <p><b>Email:</b>&nbsp;&nbsp;nachanee12@naver.com</p>
-
+<br>
 <h2>✨ Experiences</h2>
 
 <table>
