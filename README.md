@@ -32,28 +32,4 @@
 <p><b>University:</b>&nbsp;&nbsp;Sangmyung Univ. Software</p>
 <p><b>Email:</b>&nbsp;&nbsp;nachanee12@naver.com</p>
 <br>
-<h2>✨ Experiences</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>활동</th>
-      <th>기간</th>
-      <th>비고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>상명대학교 전자공학과</td>
-      <td>2021.03 ~ 2024.07</td>
-      <td>소프트웨어학과 전과</td>
-    </tr>
-    <tr>
-      <td>상명대학교 소프트웨어학과</td>
-      <td>2024.07 ~</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
