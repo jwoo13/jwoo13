@@ -28,7 +28,8 @@
 
 <h2>👋 Introduction</h2>
 <p><b>Name:</b>&nbsp;&nbsp;박정우 (jungwoo park)</p>
-<p><b>University:</b>&nbsp;&nbsp;Sangmyung Univ. Software</p>
+<p><b>University:</b>&nbsp;&nbsp;Sangmyung Univ. 
+electric engineering</p>
 <p><b>Email:</b>&nbsp;&nbsp;nachanee12@naver.com</p>
 <br>
 
